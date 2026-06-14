@@ -28,4 +28,3 @@ LearnPlaywrightBatch2x-main/
 └── README.md
 ```
 
-bro i generated this readme from copilot will those hyperlinks work can you copy paste this and push
