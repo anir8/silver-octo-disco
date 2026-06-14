@@ -1,7 +1,7 @@
 # 🎭 LearnPlaywrightBatch2x
 
 ![Playwright](https://img.shields.io/badge/Playwright-E2E%20Testing-green?logo=microsoft)
-![Node.js](https://img.shields.io/badge/Node.js-18+-brightgreen?logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![License](https://img.shields.io/badge/License-Custom-orange)
 
